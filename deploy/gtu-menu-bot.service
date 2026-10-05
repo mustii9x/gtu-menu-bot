@@ -1,0 +1,18 @@
+# /etc/systemd/system/gtu-menu-bot.service
+[Unit]
+Description=GTU Menu Bot (Telegram)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=menubot
+WorkingDirectory=/home/menubot/gtu-menu-bot
+ExecStart=/home/menubot/gtu-menu-bot/.venv/bin/python -m bot.main
+Restart=always
+RestartSec=10
+# Logs go to the systemd journal: journalctl -u gtu-menu-bot -f
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,860 @@
+{
+  "2026-10-01": [
+    {
+      "tr": "Sebze çorba",
+      "en": "Vegetable soup",
+      "kcal": 162
+    },
+    {
+      "tr": "Etli nohut",
+      "en": "Chickpea stew with meat",
+      "kcal": 386
+    },
+    {
+      "options": [
+        {
+          "tr": "Mısırlı pirinç pilavı",
+          "en": "Rice pilaf with corn",
+          "kcal": 434
+        },
+        {
+          "tr": "Erişte kavurma",
+          "en": "Pan-fried egg noodles (erişte)",
+          "kcal": 348
+        }
+      ]
+    },
+    {
+      "tr": "Meyve",
+      "en": "Fruit"
+    },
+    {
+      "tr": "Yeşil salata",
+      "en": "Green salad",
+      "kcal": 57
+    },
+    {
+      "tr": "Cacık",
+      "en": "Cacık (yogurt with cucumber and garlic)",
+      "kcal": 105
+    }
+  ],
+  "2026-10-02": [
+    {
+      "tr": "Tarhana çorba",
+      "en": "Tarhana soup (dried yogurt and grain soup)",
+      "kcal": 204
+    },
+    {
+      "tr": "Püreli rosto köfte",
+      "en": "Roast meatballs with mashed potatoes",
+      "kcal": 421
+    },
+    {
+      "options": [
+        {
+          "tr": "Bulgur pilavı",
+          "en": "Bulgur pilaf",
+          "kcal": 349
+        },
+        {
+          "tr": "Makarna",
+          "en": "Pasta",
+          "kcal": 348
+        }
+      ]
+    },
+    {
+      "tr": "Ayran",
+      "en": "Ayran (yogurt drink)",
+      "kcal": 62
+    },
+    {
+      "tr": "Patates salatası",
+      "en": "Potato salad",
+      "kcal": 114
+    },
+    {
+      "tr": "Karışık turşu",
+      "en": "Mixed pickles",
+      "kcal": 25
+    },
+    {
+      "tr": "Haydari",
+      "en": "Haydari (strained yogurt dip with herbs)",
+      "kcal": 65
+    }
+  ],
+  "2026-10-05": [
+    {
+      "tr": "Mercimek çorba",
+      "en": "Lentil soup",
+      "kcal": 209
+    },
+    {
+      "tr": "Çıtır tavuk - fırın patates",
+      "en": "Crispy chicken with oven-baked potatoes",
+      "kcal": 470
+    },
+    {
+      "options": [
+        {
+          "tr": "Pirinç pilavı",
+          "en": "Rice pilaf",
+          "kcal": 416
+        },
+        {
+          "tr": "Acı soslu makarna",
+          "en": "Pasta with spicy sauce",
+          "kcal": 322
+        }
+      ]
+    },
+    {
+      "tr": "İçecek",
+      "en": "Drink"
+    },
+    {
+      "tr": "Mevsim salata",
+      "en": "Seasonal salad",
+      "kcal": 45
+    },
+    {
+      "tr": "Biber turşu",
+      "en": "Pickled peppers",
+      "kcal": 24
+    },
+    {
+      "tr": "Pembe sultan",
+      "en": "Pembe Sultan (beetroot and yogurt dip)",
+      "kcal": 67
+    }
+  ],
+  "2026-10-06": [
+    {
+      "tr": "Yayla çorba",
+      "en": "Yayla soup (yogurt and rice soup with mint)",
+      "kcal": 192
+    },
+    {
+      "tr": "Kıymalı patates oturtma",
+      "en": "Potatoes baked with minced meat",
+      "kcal": 383
+    },
+    {
+      "options": [
+        {
+          "tr": "Şehriyeli bulgur pilavı",
+          "en": "Bulgur pilaf with vermicelli",
+          "kcal": 382
+        },
+        {
+          "tr": "Napoliten soslu makarna",
+          "en": "Pasta with Napoletana sauce",
+          "kcal": 346
+        }
+      ]
+    },
+    {
+      "tr": "Damla sakızlı muhallebi",
+      "en": "Milk pudding with mastic",
+      "kcal": 280
+    },
+    {
+      "tr": "Roka salata",
+      "en": "Arugula salad",
+      "kcal": 26
+    },
+    {
+      "tr": "Kabak tarator",
+      "en": "Zucchini tarator (with yogurt and garlic)",
+      "kcal": 121
+    }
+  ],
+  "2026-10-07": [
+    {
+      "tr": "Ezogelin çorba",
+      "en": "Ezogelin soup (red lentil and bulgur soup)",
+      "kcal": 227
+    },
+    {
+      "tr": "Soslu İzmir köfte",
+      "en": "İzmir köfte (meatballs and potatoes in tomato sauce)",
+      "kcal": 486
+    },
+    {
+      "options": [
+        {
+          "tr": "Mısırlı pirinç pilavı",
+          "en": "Rice pilaf with corn",
+          "kcal": 437
+        },
+        {
+          "tr": "Soslu spagetti",
+          "en": "Spaghetti with sauce",
+          "kcal": 320
+        }
+      ]
+    },
+    {
+      "tr": "Komposto",
+      "en": "Komposto (stewed fruit drink)",
+      "kcal": 17
+    },
+    {
+      "tr": "Marul",
+      "en": "Lettuce",
+      "kcal": 49
+    },
+    {
+      "tr": "Yoğurt",
+      "en": "Yogurt",
+      "kcal": 93
+    }
+  ],
+  "2026-10-08": [
+    {
+      "tr": "Kremalı mantar çorbası",
+      "en": "Cream of mushroom soup",
+      "kcal": 179
+    },
+    {
+      "tr": "Etli kuru fasulye",
+      "en": "White bean stew with meat",
+      "kcal": 391
+    },
+    {
+      "options": [
+        {
+          "tr": "Şehriyeli pirinç pilavı",
+          "en": "Rice pilaf with vermicelli",
+          "kcal": 417
+        },
+        {
+          "tr": "Pesto soslu makarna",
+          "en": "Pasta with pesto",
+          "kcal": 453
+        }
+      ]
+    },
+    {
+      "tr": "Meyve",
+      "en": "Fruit"
+    },
+    {
+      "tr": "Çiğköfte",
+      "en": "Çiğ köfte (spicy bulgur wraps)",
+      "kcal": 167
+    },
+    {
+      "tr": "Kıvırcık",
+      "en": "Curly lettuce",
+      "kcal": 49
+    },
+    {
+      "tr": "Rus salatası",
+      "en": "Russian salad",
+      "kcal": 121
+    }
+  ],
+  "2026-10-09": [
+    {
+      "tr": "Kaşarlı domates çorbası",
+      "en": "Tomato soup with kashar cheese",
+      "kcal": 223
+    },
+    {
+      "tr": "Tavuk sarma",
+      "en": "Chicken roulade",
+      "kcal": 396
+    },
+    {
+      "options": [
+        {
+          "tr": "Meyhane pilavı",
+          "en": "Meyhane pilaf (bulgur pilaf with tomato and vegetables)",
+          "kcal": 388
+        },
+        {
+          "tr": "Kremalı makarna",
+          "en": "Pasta with cream sauce",
+          "kcal": 345
+        }
+      ]
+    },
+    {
+      "tr": "Balbadem",
+      "en": "Balbadem (honey and almond cookies)",
+      "kcal": 435
+    },
+    {
+      "tr": "Mevsim salata",
+      "en": "Seasonal salad",
+      "kcal": 45
+    },
+    {
+      "tr": "Yoğurt",
+      "en": "Yogurt",
+      "kcal": 93
+    }
+  ],
+  "2026-10-12": [
+    {
+      "tr": "Toyga çorba",
+      "en": "Toyga soup (yogurt soup with wheat and chickpeas)",
+      "kcal": 200
+    },
+    {
+      "tr": "Pideli köfte",
+      "en": "Meatballs on pide with yogurt and tomato sauce",
+      "kcal": 574
+    },
+    {
+      "options": [
+        {
+          "tr": "Pirinç pilavı",
+          "en": "Rice pilaf",
+          "kcal": 416
+        },
+        {
+          "tr": "Cevizli erişte",
+          "en": "Egg noodles with walnuts",
+          "kcal": 398
+        }
+      ]
+    },
+    {
+      "tr": "Meyve",
+      "en": "Fruit"
+    },
+    {
+      "tr": "Mevsim salata",
+      "en": "Seasonal salad",
+      "kcal": 45
+    },
+    {
+      "tr": "Karışık turşu",
+      "en": "Mixed pickles",
+      "kcal": 25
+    },
+    {
+      "tr": "Yoğurt",
+      "en": "Yogurt",
+      "kcal": 93
+    }
+  ],
+  "2026-10-13": [
+    {
+      "tr": "Ezogelin çorba",
+      "en": "Ezogelin soup (red lentil and bulgur soup)",
+      "kcal": 227
+    },
+    {
+      "tr": "Etli taze fasulye",
+      "en": "Green beans with meat",
+      "kcal": 256
+    },
+    {
+      "options": [
+        {
+          "tr": "Arpa şehriye pilavı",
+          "en": "Orzo pilaf",
+          "kcal": 397
+        },
+        {
+          "tr": "Pesto soslu makarna",
+          "en": "Pasta with pesto",
+          "kcal": 453
+        }
+      ]
+    },
+    {
+      "tr": "Bisküvi pastası",
+      "en": "Biscuit cake",
+      "kcal": 476
+    },
+    {
+      "tr": "Ege salata",
+      "en": "Aegean salad",
+      "kcal": 81
+    },
+    {
+      "tr": "Cacık",
+      "en": "Cacık (yogurt with cucumber and garlic)",
+      "kcal": 105
+    }
+  ],
+  "2026-10-14": [
+    {
+      "tr": "Sebze çorba",
+      "en": "Vegetable soup",
+      "kcal": 162
+    },
+    {
+      "tr": "Tavuklu çökertme kebabı",
+      "en": "Chicken çökertme kebab (with fried potatoes and yogurt)",
+      "kcal": 393
+    },
+    {
+      "options": [
+        {
+          "tr": "Bulgur pilavı",
+          "en": "Bulgur pilaf",
+          "kcal": 349
+        },
+        {
+          "tr": "Makarna",
+          "en": "Pasta",
+          "kcal": 331
+        }
+      ]
+    },
+    {
+      "tr": "Ayran",
+      "en": "Ayran (yogurt drink)",
+      "kcal": 62
+    },
+    {
+      "tr": "Ege salata",
+      "en": "Aegean salad",
+      "kcal": 81
+    },
+    {
+      "tr": "Haydari",
+      "en": "Haydari (strained yogurt dip with herbs)",
+      "kcal": 65
+    }
+  ],
+  "2026-10-15": [
+    {
+      "tr": "Tavuk suyu çorbası",
+      "en": "Chicken soup",
+      "kcal": 189
+    },
+    {
+      "tr": "Etli nohut",
+      "en": "Chickpea stew with meat",
+      "kcal": 386
+    },
+    {
+      "options": [
+        {
+          "tr": "Tel şehriyeli pirinç pilavı",
+          "en": "Rice pilaf with vermicelli",
+          "kcal": 417
+        },
+        {
+          "tr": "Kuskus",
+          "en": "Couscous",
+          "kcal": 329
+        }
+      ]
+    },
+    {
+      "tr": "Meyve",
+      "en": "Fruit"
+    },
+    {
+      "tr": "Patates salatası",
+      "en": "Potato salad",
+      "kcal": 114
+    },
+    {
+      "tr": "Acılı ezme",
+      "en": "Acılı ezme (spicy tomato and pepper dip)",
+      "kcal": 43
+    },
+    {
+      "tr": "Yoğurt",
+      "en": "Yogurt",
+      "kcal": 93
+    }
+  ],
+  "2026-10-16": [
+    {
+      "tr": "Acem çorbası",
+      "en": "Acem soup",
+      "kcal": 205
+    },
+    {
+      "tr": "Sebzeli fırın baget",
+      "en": "Oven-baked chicken drumsticks with vegetables",
+      "kcal": 401
+    },
+    {
+      "options": [
+        {
+          "tr": "Mısırlı pirinç pilavı",
+          "en": "Rice pilaf with corn",
+          "kcal": 437
+        },
+        {
+          "tr": "Napoliten soslu makarna",
+          "en": "Pasta with Napoletana sauce",
+          "kcal": 346
+        }
+      ]
+    },
+    {
+      "tr": "İçecek",
+      "en": "Drink"
+    },
+    {
+      "tr": "Mercimek köftesi",
+      "en": "Lentil patties (mercimek köftesi)",
+      "kcal": 164
+    },
+    {
+      "tr": "Kıvırcık",
+      "en": "Curly lettuce",
+      "kcal": 49
+    },
+    {
+      "tr": "Haydari",
+      "en": "Haydari (strained yogurt dip with herbs)",
+      "kcal": 65
+    }
+  ],
+  "2026-10-19": [
+    {
+      "tr": "Tarhana çorba",
+      "en": "Tarhana soup (dried yogurt and grain soup)",
+      "kcal": 204
+    },
+    {
+      "tr": "Tavuk tantuni - lavaş",
+      "en": "Chicken tantuni in lavash wrap",
+      "kcal": 537
+    },
+    {
+      "options": [
+        {
+          "tr": "Pirinç pilavı",
+          "en": "Rice pilaf",
+          "kcal": 416
+        },
+        {
+          "tr": "Napoliten soslu makarna",
+          "en": "Pasta with Napoletana sauce",
+          "kcal": 346
+        }
+      ]
+    },
+    {
+      "tr": "Ayran",
+      "en": "Ayran (yogurt drink)",
+      "kcal": 62
+    },
+    {
+      "tr": "Mevsim salata",
+      "en": "Seasonal salad",
+      "kcal": 45
+    },
+    {
+      "tr": "Biber turşu",
+      "en": "Pickled peppers",
+      "kcal": 24
+    },
+    {
+      "tr": "Pembe sultan",
+      "en": "Pembe Sultan (beetroot and yogurt dip)",
+      "kcal": 67
+    }
+  ],
+  "2026-10-20": [
+    {
+      "tr": "Krotonlu domates çorba",
+      "en": "Tomato soup with croutons",
+      "kcal": 190
+    },
+    {
+      "tr": "Etli kuru fasulye",
+      "en": "White bean stew with meat",
+      "kcal": 391
+    },
+    {
+      "options": [
+        {
+          "tr": "Bulgur pilavı",
+          "en": "Bulgur pilaf",
+          "kcal": 349
+        },
+        {
+          "tr": "Tepsi böreği",
+          "en": "Tray börek (layered pastry)",
+          "kcal": 322
+        }
+      ]
+    },
+    {
+      "tr": "Magnolia",
+      "en": "Magnolia (biscuit and cream pudding)",
+      "kcal": 233
+    },
+    {
+      "tr": "Mercimek köftesi",
+      "en": "Lentil patties (mercimek köftesi)",
+      "kcal": 164
+    },
+    {
+      "tr": "Kıvırcık",
+      "en": "Curly lettuce",
+      "kcal": 49
+    },
+    {
+      "tr": "Yoğurt",
+      "en": "Yogurt",
+      "kcal": 93
+    }
+  ],
+  "2026-10-21": [
+    {
+      "tr": "Mercimek çorba",
+      "en": "Lentil soup",
+      "kcal": 209
+    },
+    {
+      "tr": "Kremalı kekikli tavuk",
+      "en": "Chicken with cream and thyme",
+      "kcal": 437
+    },
+    {
+      "options": [
+        {
+          "tr": "Tel şehriyeli pirinç pilavı",
+          "en": "Rice pilaf with vermicelli",
+          "kcal": 417
+        },
+        {
+          "tr": "Makarna",
+          "en": "Pasta",
+          "kcal": 331
+        }
+      ]
+    },
+    {
+      "tr": "Ayran",
+      "en": "Ayran (yogurt drink)",
+      "kcal": 62
+    },
+    {
+      "tr": "Marul",
+      "en": "Lettuce",
+      "kcal": 49
+    },
+    {
+      "tr": "Havuç",
+      "en": "Carrot salad",
+      "kcal": 41
+    },
+    {
+      "tr": "Haydari",
+      "en": "Haydari (strained yogurt dip with herbs)",
+      "kcal": 65
+    }
+  ],
+  "2026-10-22": [
+    {
+      "tr": "Yayla çorbası",
+      "en": "Yayla soup (yogurt and rice soup with mint)",
+      "kcal": 192
+    },
+    {
+      "tr": "Mevsim türlü",
+      "en": "Seasonal vegetable stew",
+      "kcal": 398
+    },
+    {
+      "options": [
+        {
+          "tr": "Meyhane pilavı",
+          "en": "Meyhane pilaf (bulgur pilaf with tomato and vegetables)",
+          "kcal": 388
+        },
+        {
+          "tr": "Cevizli erişte",
+          "en": "Egg noodles with walnuts",
+          "kcal": 398
+        }
+      ]
+    },
+    {
+      "tr": "Meyve",
+      "en": "Fruit"
+    },
+    {
+      "tr": "Mevsim salata",
+      "en": "Seasonal salad",
+      "kcal": 45
+    },
+    {
+      "tr": "Karışık turşu",
+      "en": "Mixed pickles",
+      "kcal": 5
+    },
+    {
+      "tr": "Biber borani",
+      "en": "Pepper borani (peppers with yogurt)",
+      "kcal": 148
+    }
+  ],
+  "2026-10-23": [
+    {
+      "tr": "Çeneçarpan çorbası",
+      "en": "Çeneçarpan soup",
+      "kcal": 311
+    },
+    {
+      "tr": "Dana tandır",
+      "en": "Slow-roasted beef (tandır)",
+      "kcal": 351
+    },
+    {
+      "tr": "Keşkek",
+      "en": "Keşkek (wheat and meat stew)",
+      "kcal": 380
+    },
+    {
+      "tr": "Haşhaşlı revani",
+      "en": "Revani with poppy seeds (semolina cake)",
+      "kcal": 404
+    },
+    {
+      "tr": "Galli patlıcan",
+      "en": "Galli patlıcan (eggplant dish)",
+      "kcal": 160
+    },
+    {
+      "tr": "Börülce tarator",
+      "en": "Black-eyed peas with tarator",
+      "kcal": 11
+    }
+  ],
+  "2026-10-26": [
+    {
+      "tr": "Domates çorbası",
+      "en": "Tomato soup",
+      "kcal": 209
+    },
+    {
+      "tr": "İskender",
+      "en": "İskender kebab",
+      "kcal": 573
+    },
+    {
+      "options": [
+        {
+          "tr": "Şehriyeli pirinç pilavı",
+          "en": "Rice pilaf with vermicelli",
+          "kcal": 417
+        },
+        {
+          "tr": "Makarna",
+          "en": "Pasta",
+          "kcal": 331
+        }
+      ]
+    },
+    {
+      "tr": "Meyve",
+      "en": "Fruit"
+    },
+    {
+      "tr": "Mevsim salata",
+      "en": "Seasonal salad",
+      "kcal": 45
+    },
+    {
+      "tr": "Karışık turşu",
+      "en": "Mixed pickles",
+      "kcal": 25
+    },
+    {
+      "tr": "Yoğurt",
+      "en": "Yogurt",
+      "kcal": 93
+    }
+  ],
+  "2026-10-27": [
+    {
+      "tr": "Yayla çorba",
+      "en": "Yayla soup (yogurt and rice soup with mint)",
+      "kcal": 192
+    },
+    {
+      "tr": "Etli bezelye",
+      "en": "Peas with meat",
+      "kcal": 348
+    },
+    {
+      "options": [
+        {
+          "tr": "Yeşil mercimekli bulgur pilavı",
+          "en": "Bulgur pilaf with green lentils",
+          "kcal": 376
+        },
+        {
+          "tr": "Soslu makarna",
+          "en": "Pasta with sauce",
+          "kcal": 320
+        }
+      ]
+    },
+    {
+      "tr": "Telkadayıf",
+      "en": "Tel kadayıf (shredded pastry dessert)",
+      "kcal": 321
+    },
+    {
+      "tr": "Yeşil salata",
+      "en": "Green salad",
+      "kcal": 5
+    },
+    {
+      "tr": "Havuç tarator",
+      "en": "Carrot tarator (with yogurt and garlic)",
+      "kcal": 152
+    }
+  ],
+  "2026-10-30": [
+    {
+      "tr": "Mercimek çorbası",
+      "en": "Lentil soup",
+      "kcal": 209
+    },
+    {
+      "tr": "Tavuk sote",
+      "en": "Chicken sauté",
+      "kcal": 350
+    },
+    {
+      "options": [
+        {
+          "tr": "Şehriyeli pirinç pilavı",
+          "en": "Rice pilaf with vermicelli",
+          "kcal": 417
+        },
+        {
+          "tr": "Napoliten soslu makarna",
+          "en": "Pasta with Napoletana sauce",
+          "kcal": 346
+        }
+      ]
+    },
+    {
+      "tr": "Damla sakızlı muhallebi",
+      "en": "Milk pudding with mastic",
+      "kcal": 280
+    },
+    {
+      "tr": "Mevsim salata",
+      "en": "Seasonal salad",
+      "kcal": 45
+    },
+    {
+      "tr": "Cacık",
+      "en": "Cacık (yogurt with cucumber and garlic)",
+      "kcal": 105
+    }
+  ]
+}

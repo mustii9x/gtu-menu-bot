@@ -1,0 +1,9 @@
+.env
+data/*.db
+data/.running
+__pycache__/
+*.pyc
+.venv*/
+venv/
+.pytest_cache/
+*.json.tmp
