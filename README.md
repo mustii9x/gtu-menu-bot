@@ -128,4 +128,4 @@ Updating: `git pull && sudo systemctl restart gtu-menu-bot`.
 
 ## Out of scope for v1
 
-Per-user delivery times, more languages (e.g. Arabic), separate lunch/dinner menus, weekly summaries, a web page, a channel broadcast (decided against), storing any other personal data (decided against).
+Per-user delivery times, separate lunch/dinner menus, weekly summaries, a web page, a channel broadcast (decided against), storing any other personal data (decided against).
